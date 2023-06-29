@@ -1,9 +1,9 @@
-# Template Site
+# Novalisgedanken Blog
 
-> Whats about
+> „Aller innerer Sinn ist Sinn für Sinn.“ – Novalis
 
-- Whats about
-- [Background Picture click here](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_3072_0171.jpg)
+- My new old blog. Enjoy :)
+- [Background Picture from SDO satelite](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_3072_0171.jpg)
 
 <!-- background image -->
 
