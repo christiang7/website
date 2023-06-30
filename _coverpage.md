@@ -1,4 +1,4 @@
-# Novalisgedanken Blog
+# Novalis Gedanken Blog
 
 > „Aller innerer Sinn ist Sinn für Sinn.“ – Novalis
 
