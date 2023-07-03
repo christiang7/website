@@ -26,3 +26,9 @@ Foto von <a href="https://unsplash.com/fr/@marekpiwnicki?utm_source=unsplash&utm
 </div>
 
 [Aus den langen Winterschlaf endlich erwacht, erscheint nun mein neuer Blog auf Github. Man fragt sich bestimmt, warum? Der Grund lässt sich ganz einfach erklären...](Blog/Neuer_alter_Blog.md)
+
+## Software
+
+HTML creation with the tool [Docsify](https://docsify.js.org/) and language [Markdown](https://markdown.de/).
+
+Hosted on [Github](https://github.com/christiang7/novalisgedanken)
