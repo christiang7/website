@@ -2,6 +2,12 @@
 
 Hier sind meine Blogeinträge.
 
+## [Blogeinträge auf Wordpress](https://novalisgedanken.wordpress.com/)
+
+Auf meinem alten Blog auf Wordpress sind noch meine alten Blogeinträge zu finden.
+
+https://novalisgedanken.wordpress.com/
+
 ## [Euclid Teleskop](Blog/Euclid_Teleskop.md)
 
 <div>
