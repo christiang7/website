@@ -2,7 +2,7 @@
 
 Hier ist mein neuer alter Blog über meine mich und die Welt. Fühl dich frei meinen Blog zu erkunden. Enjoy :)
 
-## Neue Blogeinträge
+## [Neue Blogeinträge](Blog.md)
 
 ### [Euclid Teleskop](Blog/Euclid_Teleskop.md)
 
