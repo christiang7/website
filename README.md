@@ -2,9 +2,9 @@
 
 Hier ist mein neuer alter Blog über meine mich und die Welt. Fühl dich frei meinen Blog zu erkunden. Enjoy :)
 
-## Neuer Blogeintrag
+## Neue Blogeinträge
 
-## [Euclid Teleskop](Blog/Euclid_Teleskop.md)
+### [Euclid Teleskop](Blog/Euclid_Teleskop.md)
 
 <div>
 <img width="300" src="./Media/Euclid_Poster.jpg"/>
@@ -17,7 +17,7 @@ Foto von [ESA](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Eucl
 
 
 
-## [Neuer Alter Blog](Blog/Neuer_alter_Blog.md)
+### [Neuer Alter Blog](Blog/Neuer_alter_Blog.md)
 
 <div>
 <img width="300" src="./Media/marek-piwnicki-epdbc0xRjiI-unsplash.jpg"/>
