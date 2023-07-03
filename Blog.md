@@ -11,7 +11,7 @@ Hier sind meine Blogeinträge.
 Foto von [ESA](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_wallpapers)
 <div>
 
-[Vor einigen Tagen am 1.7.2023 wurde ein weiteres Weltraumteleskop gestartet, das Euclid Teleksop. Es ist eines von vielen die derzeit im Weltraum den Weltraum beobachten wie das Webb Teleskop...](Blog/Euclid_Teleskop.md)
+[Vor einigen Tagen am 1.7.2023 wurde ein weiteres Weltraumteleskop gestartet, das Euclid Teleskop. Es ist eines von vielen die derzeit im Weltraum den Weltraum beobachten wie das Webb Teleskop...](Blog/Euclid_Teleskop.md)
 
 
 ## [Neuer Alter Blog](Blog/Neuer_alter_Blog.md)
