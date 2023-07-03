@@ -1,6 +1,6 @@
-# About Site
+# About Seite
 
-## About in German
+## About in Deutsch
 
 Hier einer kleinen Vorstellung meinerseits und über die Absicht des Blogs: Ich bin Christian Gößl und komme aus der Gegend Berlin-Brandenburg (watt den schönen Artikeltitel erklärt ;) ). Ich bin so ziemlich interessiert auf die Welt und auf ihre Erscheinungen. Mein Weg führte mich zuerst zur Physik, was mir ein Wissen über das Universum in dessen unendlichem Reichtum an Phänomen ermöglichte. Die Physik steckt überall und gibt unserer Realität eine unumstößliche Ordnung. Nebenbei bin ich so ziemlich neugierig auf die Welt. Diese Neugier zieht sich durch fasst allen Bereichen der Welt, was mich auf [Novalis](https://de.wikipedia.org/wiki/Novalis) stoßen ließ, der mir bis heute aus der Seele spricht. Seine Auffassung die Natur zu betrachten und zu beschreiben beeindrucken mich und ist einmalig. Diese Einmaligkeit hat einen starken Einfluss auf mich hinterlassen. Seine Philosophie und die Verbindungen der verschiedensten Bereiche können aus meiner Sicht noch heute hilfreich sein, um die Welt zu erklären und so manche Probleme zu lösen.
 
