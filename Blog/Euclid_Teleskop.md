@@ -1,7 +1,7 @@
 # Euclid Teleskop der ESA
 
 <div align=center>
-<img width="700" src="./Media/Euclid_Poster.jpg"/>
+<img width="500" src="./Media/Euclid_Poster.jpg"/>
 </div>
 
 
