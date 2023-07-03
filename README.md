@@ -29,6 +29,6 @@ Foto von <a href="https://unsplash.com/fr/@marekpiwnicki?utm_source=unsplash&utm
 
 ## Software
 
-HTML creation with the tool [Docsify](https://docsify.js.org/) and language [Markdown](https://markdown.de/).
+Website created with tool [Docsify](https://docsify.js.org/) and language [Markdown](https://markdown.de/).
 
 Hosted on [Github](https://github.com/christiang7/novalisgedanken)
