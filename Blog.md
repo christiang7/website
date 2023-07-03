@@ -10,7 +10,7 @@ Hier sind meine Blogeinträge.
 https://novalisgedanken.wordpress.com/
 
 ## [Euclid Teleskop](Blog/Euclid_Teleskop.md)
-
+Vom 03.07.2023
 [<div> <img width="300" src="./Media/Euclid_Poster.jpg"/> </div>](Blog/Euclid_Teleskop.md)
 Foto von [ESA](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_wallpapers)
 
@@ -18,8 +18,7 @@ Foto von [ESA](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Eucl
 
 
 ## [Neuer Alter Blog](Blog/Neuer_alter_Blog.md)
-
-
+Vom 30.06.2023
 [<div> <img width="300" src="./Media/marek-piwnicki-epdbc0xRjiI-unsplash.jpg"/> </div>](Blog/Neuer_alter_Blog.md)
 "Foto von <a href="https://unsplash.com/fr/@marekpiwnicki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Piwnicki</a> auf <a href="https://unsplash.com/de/fotos/der-nachthimmel-mit-sternen-uber-einer-bergkette-epdbc0xRjiI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
 

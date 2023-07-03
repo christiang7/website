@@ -5,7 +5,7 @@ Hier ist mein neuer alter Blog über meine mich und die Welt. Fühl dich frei me
 ## [Neue Blogeinträge](Blog.md)
 
 ### [Euclid Teleskop](Blog/Euclid_Teleskop.md)
-
+Vom 03.07.2023
 <div>
 <img width="300" src="./Media/Euclid_Poster.jpg"/>
 </div>
@@ -18,7 +18,7 @@ Foto von [ESA](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Eucl
 
 
 ### [Neuer Alter Blog](Blog/Neuer_alter_Blog.md)
-
+Vom 30.06.2023
 <div>
 <img width="300" src="./Media/marek-piwnicki-epdbc0xRjiI-unsplash.jpg"/>
 
