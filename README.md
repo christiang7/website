@@ -12,7 +12,7 @@ Vom 14.08.2023
 ### [Digital Detox](Blog/Digital_Detox.md)
 Vom 14.08.2023
 
-[Das Internet scheint grenzenlos zu sein. Jeden Tag wird eine unvorstellbare Größe an neuem Inhalt erzeugt und nur zu bestimmten teilen auch konsumiert bzw verarbeitet. In früheren Zeit waren es mehr die Links, die uns zu...](Blog/Digital_Detox.md)
+[Das Internet scheint grenzenlos zu sein. Jeden Tag wird eine unvorstellbare Größe an neuem Inhalt erzeugt und nur zu bestimmten teilen auch konsumiert bzw. verarbeitet. In früheren Zeiten waren es mehr die Links, die uns zu...](Blog/Digital_Detox.md)
 
 
 ## Software
