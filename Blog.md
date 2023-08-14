@@ -2,10 +2,15 @@
 
 Hier sind meine Blogeinträge.
 
+## [Offene Lizenzen für alles](Blog/Offene_Lizenzen_für_alles.md)
+Vom 14.08.2023
+
+[Heute hatte ich mich mit der Lizenzierung von Ideen und Werken beschäftigt. Dabei stieß ich schnell bei meiner Suche auf die Creative Commons. Ich dachte, dass diese nur für Kunst und auch Quell Code genutzt werden kann, aber...](Blog/Offene_Lizenzen_für_alles.md)
+
 ## [Digital Detox](Blog/Digital_Detox.md)
 Vom 14.08.2023
 
-[Das Internet scheint grenzenlos zu sein. Jeden Tag wird eine unvorstellbare Größe an neuem Inhalt erzeugt und nur zu bestimmten teilen auch konsumiert bzw verarbeitet. In früheren Zeit waren es mehr die Links, die uns zu](Blog/Digital_Detox.md)
+[Das Internet scheint grenzenlos zu sein. Jeden Tag wird eine unvorstellbare Größe an neuem Inhalt erzeugt und nur zu bestimmten teilen auch konsumiert bzw verarbeitet. In früheren Zeit waren es mehr die Links, die uns zu...](Blog/Digital_Detox.md)
 
 ## [Alte Blogeinträge auf Wordpress](https://novalisgedanken.wordpress.com/)
 [ <div>  <img width="300" src="./Media/Screenshot-NovalisGedanken-wordpress.png"/> <div>](https://novalisgedanken.wordpress.com/)
