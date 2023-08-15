@@ -12,34 +12,49 @@
     />
   </head>
   <body>
-    <!-- load docsify script -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    
+
+
     <div id="app"></div>
 
     <script>
         window.$docsify = {
+
+
             loadNavbar: true,
+            autoHeader: true,
+      subMaxLevel: 3,
             latex: {
                 inlineMath   : [['%%', '%%'],['\\(', '\\)']], // default ['$', '$'],
                 displayMath  : [['$$', '$$']],               // default
             },
-            coverpage: true
+            coverpage: true ,
+            search: {
+                maxAge: 86400000,
+                paths: 'auto', // or 'auto'
+                placeholder: 'Type to search',
+                noData: 'No Results',
+                depth: 4,
+            }
         }
     </script>
     
+<!-- load docsify script -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
      <!-- load latex engine -->
     
     <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    
+
     <!-- load latex docsify script -->
     
     <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
-    
-    
-    <nav>
-        <a href="#/">EN</a>
-    </nav>
+
+    <!-- load search docsify script -->
+
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
+
+
+
     
   </body>
 </html>
