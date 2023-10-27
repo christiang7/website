@@ -28,12 +28,20 @@
                 displayMath  : [['$$', '$$']],               // default
             },
             coverpage: true ,
+            search: 'auto', // default
+
+    search: [
+      '/',            // => /README.md
+      '/Blog/',       // => /guide.md
+      '/About/', // => /get-started.md
+    ],
             search: {
-                maxAge: 86400000,
-                paths: 'auto', // or 'auto'
+                maxAge: 1,
+                paths: [], // or 'auto'
                 placeholder: 'Type to search',
                 noData: 'No Results',
-                depth: 4,
+                pathNamespaces: ['/', '/Blog', '/About','/Media'],
+                depth: 2,
             }
         }
     </script>
