@@ -1,6 +1,6 @@
 # Blog
 
-Hier sind meine Blogeinträge.
+Hier sind alle Einträge.
 
 ## [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
 Vom 15.8.2023

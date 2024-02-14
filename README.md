@@ -1,8 +1,10 @@
-# Blog Novalis Gedanken
+# Willkommen auf meiner Webseite
 
-Hier ist mein neuer alter Blog über meine mich und die Welt. Fühl dich frei meinen Blog zu erkunden. Enjoy :)
+Hier findest du [mich](About.md), [meine Welt](Blog.md) und vieles mehr. Enjoy
+:)
 
-## [Neue Blogeinträge](Blog.md)
+
+## [Neueste Einträge](Blog.md)
 
 ### [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
 Vom 15.8.2023
