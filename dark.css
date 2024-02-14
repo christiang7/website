@@ -194,8 +194,8 @@ li input[type='checkbox'] {
 main {
   display: block;
   position: relative;
-  width: 100vw;
-  height: 90%;
+  width: 90vw; /* changed from 100vm*/
+  height: 100%;
   z-index: 0;
 }
 main.hidden {
@@ -313,7 +313,7 @@ body.sticky .sidebar-toggle {
   top: 0;
   right: 0;
   bottom: 0;
-  left: 300px;
+  left: 200px; /* changed from 300px*/
   transition: left 250ms ease;
 }
 .markdown-section {
