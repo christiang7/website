@@ -1,20 +1,24 @@
 # Willkommen auf meiner Webseite
 
-Hier findest du [mich](About.md), [meine Welt](Blog.md) und vieles mehr. Enjoy
-:)
+Hier findest du [mich](About_Me.md), [meine Welt](Blog.md) und vieles mehr.
+Enjoy :)
 
 
-## [Neueste Einträge](Blog.md)
+## Neueste Einträge
 
 ### [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
-Vom 15.8.2023
 
-[Alle die Linux nutzen kennen den Umstand, wenn man mal ein Spiel spielen möchte, ist das nicht so einfach möglich. Man konnte oft nur den Weg gehen beide Systeme auf dem Rechner zu installieren und dann dorthin zu wechseln, was ...](Blog/Spiele_auf_Linux.md)
+Alle die Linux nutzen kennen den Umstand, wenn man mal ein Spiel spielen
+möchte, ist das nicht so einfach möglich. Man konnte oft nur den Weg gehen beide
+Systeme auf dem Rechner zu installieren und dann dorthin zu wechseln, [was
+...](Blog/Spiele_auf_Linux.md) Vom 15.8.2023
 
 ### [Offene Lizenzen für alles](Blog/Offene_Lizenzen_für_alles.md)
-Vom 14.08.2023
 
-[Heute hatte ich mich mit der Lizenzierung von Ideen und Werken beschäftigt. Dabei stieß ich schnell bei meiner Suche auf die Creative Commons. Ich dachte, dass diese nur für Kunst und auch Quell Code genutzt werden kann, aber...](Blog/Offene_Lizenzen_für_alles.md)
+Heute hatte ich mich mit der Lizenzierung von Ideen und Werken beschäftigt.
+Dabei stieß ich schnell bei meiner Suche auf die Creative Commons. Ich dachte,
+dass diese nur für Kunst und auch Quell Code genutzt werden kann,
+[aber...](Blog/Offene_Lizenzen_für_alles.md) Vom 14.08.2023
 
 
 ## Software

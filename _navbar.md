@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Physik](Physik.md)
-* [Code](Code.md)
+* [Coding](Coding.md)
 * [Blog](Blog.md)
-* [About](About.md)
+* [About Me](About_Me.md)
 * [Impressum](Impressum.md)
