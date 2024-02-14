@@ -673,14 +673,14 @@ body {
   margin: 1.2em 0;
 }
 .markdown-section p {
-  line-height: 2.4rem;
+  line-height: 2.4rem; /* change line height / spacing from 1.6rem */
   word-spacing: 0.05rem;
 }
 
 
 .markdown-section ul,
 .markdown-section ol {
-  line-height: 1.6rem; /* change line height / spacing  */
+  line-height: 1.6rem;
   word-spacing: 0.05rem;
 }
 .markdown-section ul,
