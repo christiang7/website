@@ -6,7 +6,7 @@ Enjoy :)
 
 ## Neueste Einträge
 
-### [Spring School 2024 AEI](Blog/spring-school-2024.md)
+### [Spring School 2024 AEI](Blog/Spring-school-2024.md)
 Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
 [Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) Vom 4.4.2024
 
