@@ -5,12 +5,20 @@ Hier sind alle Einträge.
 ## [Spring School 2024 AEI](Blog/Spring-school-2024.md)
 
 Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
+
 [Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
 ## [Kontinuirliche Gruppen und Symmetrien](Gruppen-Symmetrie.md)
 
 Meine Zusammenstellung von Notizen von einem Kurs an der Universität Potsdam im Wintersemester 23/24.
+
 [Hier geht es zur Seite](https://christiang7.github.io/Kontinuierliche_Gruppen_und_ihre_Anwendungen_in_der_Quantenphysik_Unikurs/#/) vom 4.4.2024
+
+## [Numerical relativity hydrodynamics Unikurs](Numerical-relativity.md)
+
+Meine Zusammenstellung von Notizen vom Numerical relativity hydrodynamics Kurs an der Universität Potsdam im Wintersemester 23/24.
+
+[Hier geht es zur Seite](https://github.com/christiang7/Numerical_relativity_hydrodynamics_Unikurs) vom 4.4.2024
 
 ## [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
 
