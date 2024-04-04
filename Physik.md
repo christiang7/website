@@ -3,8 +3,9 @@
 Hier sind meine Physikeinträge.
 
 ## [Spring School 2024 AEI](Blog/Spring-school-2024.md)
+
 Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
-[Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) Vom 4.4.2024
+[Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
 ## [Euclid Teleskop](Blog/Euclid_Teleskop.md)
 [<div> <img width="300" src="./Media/Euclid_Poster.jpg"/> </div>](Blog/Euclid_Teleskop.md)

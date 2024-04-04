@@ -3,8 +3,9 @@
 Hier sind alle Einträge.
 
 ## [Spring School 2024 AEI](Blog/Spring-school-2024.md)
+
 Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
-[Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) Vom 4.4.2024
+[Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
 ## [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
 
