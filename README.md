@@ -1,25 +1,20 @@
-# Willkommen auf meiner Webseite
-
 Hier findest du [mich](About_Me.md), [meine Welt](Blog.md) und vieles mehr.
 Enjoy :)
 
 
-## Neueste Einträge
+# Neueste Einträge
 
-### [Spring School 2024 AEI](Blog/Spring-school-2024.md)
+## [Spring School 2024 AEI](Blog/Spring-school-2024.md)
 
 Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
-[Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
+[Hier geht es zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
-### [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
+## [Kontinuirliche Gruppen und Symmetrien](Gruppen-Symmetrie.md)
 
-Alle die Linux nutzen kennen den Umstand, wenn man mal ein Spiel spielen
-möchte, ist das nicht so einfach möglich. Man konnte oft nur den Weg gehen beide
-Systeme auf dem Rechner zu installieren und dann dorthin zu wechseln, [was
-...](Blog/Spiele_auf_Linux.md) vom 15.8.2023
+Meine Zusammenstellung von Notizen von einem Kurs an der Universität Potsdam im Wintersemester 23/24.
+[Hier geht es zur Seite](https://christiang7.github.io/Kontinuierliche_Gruppen_und_ihre_Anwendungen_in_der_Quantenphysik_Unikurs/#/) vom 4.4.2024
 
-
-## Software
+# Software
 
 Website created with tool [Docsify](https://docsify.js.org/) and language [Markdown](https://markdown.de/).
 
