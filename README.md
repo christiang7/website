@@ -6,19 +6,16 @@ Enjoy :)
 
 ## Neueste Einträge
 
+### [Spring School 2024 AEI](Blog/spring-school-2024.md)
+Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
+[Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) Vom 4.4.2024
+
 ### [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
 
 Alle die Linux nutzen kennen den Umstand, wenn man mal ein Spiel spielen
 möchte, ist das nicht so einfach möglich. Man konnte oft nur den Weg gehen beide
 Systeme auf dem Rechner zu installieren und dann dorthin zu wechseln, [was
 ...](Blog/Spiele_auf_Linux.md) Vom 15.8.2023
-
-### [Offene Lizenzen für alles](Blog/Offene_Lizenzen_für_alles.md)
-
-Heute hatte ich mich mit der Lizenzierung von Ideen und Werken beschäftigt.
-Dabei stieß ich schnell bei meiner Suche auf die Creative Commons. Ich dachte,
-dass diese nur für Kunst und auch Quell Code genutzt werden kann,
-[aber...](Blog/Offene_Lizenzen_für_alles.md) Vom 14.08.2023
 
 
 ## Software

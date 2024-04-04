@@ -2,6 +2,10 @@
 
 Hier sind alle Einträge.
 
+## [Spring School 2024 AEI](Blog/spring-school-2024.md)
+Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
+[Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) Vom 4.4.2024
+
 ## [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
 
 Alle die Linux nutzen kennen den Umstand, wenn man mal ein Spiel spielen möchte, ist das nicht so einfach möglich. Man konnte oft nur den Weg gehen beide Systeme auf dem Rechner zu installieren und dann dorthin zu wechseln, [was ...](Blog/Spiele_auf_Linux.md) vom 15.8.2023
