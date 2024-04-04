@@ -1,6 +1,5 @@
 <!-- _navbar.md -->
 
-* [Home](README.md)
 * [Physik](Physik.md)
 * [Coding](Coding.md)
 * [Blog](Blog.md)
