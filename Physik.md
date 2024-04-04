@@ -8,13 +8,13 @@ Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein 
 
 [Hier gehts zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
-## [Kontinuirliche Gruppen und Symmetrien Unikurs](Gruppen-Symmetrie.md)
+## [Kontinuirliche Gruppen und Symmetrien Unikurs](Blog/Gruppen-Symmetrie.md)
 
 Meine Zusammenstellung von Notizen vom Kontinuirliche Gruppen und Symmetrien Kurs an der Universität Potsdam im Wintersemester 23/24.
 
 [Hier geht es zur Seite](https://christiang7.github.io/Kontinuierliche_Gruppen_und_ihre_Anwendungen_in_der_Quantenphysik_Unikurs/#/) vom 4.4.2024
 
-## [Numerical relativity hydrodynamics Unikurs](Numerical-relativity.md)
+## [Numerical relativity hydrodynamics Unikurs](Blog/Numerical-relativity.md)
 
 Meine Zusammenstellung von Notizen vom Numerical relativity hydrodynamics Kurs an der Universität Potsdam im Wintersemester 23/24.
 
