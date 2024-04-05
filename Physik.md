@@ -18,7 +18,7 @@ Meine Zusammenstellung von Notizen vom Kontinuirliche Gruppen und Symmetrien Kur
 
 Meine Zusammenstellung von Notizen vom Numerical relativity hydrodynamics Kurs an der Universität Potsdam im Wintersemester 23/24.
 
-[Hier geht es zur Seite](https://github.com/christiang7/Numerical_relativity_hydrodynamics_Unikurs) vom 4.4.2024
+[Hier geht es zur Seite](https://christiang7.github.io/Numerical_relativity_hydrodynamics_Unikurs/#/) vom 4.4.2024
 
 
 ## [Euclid Teleskop](Blog/Euclid_Teleskop.md)
