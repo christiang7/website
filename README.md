@@ -18,6 +18,6 @@ Meine Zusammenstellung von Notizen von einem Kurs an der Universität Potsdam im
 
 Website created with tool [Docsify](https://docsify.js.org/) and language [Markdown](https://markdown.de/).
 
-Hosted on [Github](https://github.com/christiang7/novalisgedanken)
+Hosted on [Github](https://github.com/christiang7/website)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
