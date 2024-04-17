@@ -16,20 +16,41 @@ Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein 
 [Hier geht es zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
 
+*
+
+*
+
+*
+
+*
 
 <div hidden>
 python3 -m http.server 3000
