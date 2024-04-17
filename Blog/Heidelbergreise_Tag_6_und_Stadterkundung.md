@@ -58,7 +58,7 @@ Das Schloss an sich war ganz in Ordnung. Ich ging im Schlossgarten umher und dor
 Daneben versammelten sich viele Menschen an den schönen Aussichtsplattformen auf die Stadt, um den Samstagabend zu feiern.
 
 <div align=center style="text-align: center;">
-    <img width="350" src="./Media/img_20211009_175915.jpg"/>
+    <img width="550" src="./Media/img_20211009_175915.jpg"/>
 </div>
 
 Puh mit all diesen Eindrücken musste ich mich erstmal hinsetzen und ne Pause machen. Ich bestaunte die Umgebung und das Treiben der Menschen. Ich ließ mich auf die Stimmung ein und blieb noch bis es abends wurde. Danach machte ich mich wieder auf den Weg ins Hotel. Am nächsten Tag ging es ja auch schon wieder nach Hause, also noch ein wenig Vorbereitung für die Abreise und dann ruhte mich abends noch im Hotel aus.
