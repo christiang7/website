@@ -10,7 +10,7 @@ Eine Idee die mir schon seit Anfang meines Physikstudiums im Kopfe herumkreist. 
 Diesen Algorithmus habe ich mal versucht mathematisch zu formulieren und kam dann darauf, dass ich auch einfach 4 Stapel machen kann und den letzten Stapel wieder auf 4 Stapel verteile bis alles verteilt ist. Dabei kommt man auf folgende Summenformel:
 
 $$
- {\color{cyan}\sum} ^{\color{cyan}\infty\color{black}} _{{\color{Orchid}k}=1} \frac{1}{4^{\color{VioletRed}k\color{black}}}=\frac{1}{4}+\frac{1}{4^2}+\frac{1}{4^3}+...=\frac{1}{3}
+ {\color{cyan}\sum} ^{\color{cyan}\infty\color{black}} _{{\color{VioletRed}k}=1} \frac{1}{4^{\color{VioletRed}k\color{black}}}=\frac{1}{4}+\frac{1}{4^2}+\frac{1}{4^3}+...=\frac{1}{3}
 $$
 
 <!-- $$ \colorbox{white}{${\color{cyan}\sum} ^{\color{cyan}\infty\color{black}} _{{\color{pink}k}=1} \frac{1}{4^{\color{pink}k\color{black}}}=\frac{1}{4}+\frac{1}{4^2}+\frac{1}{4^3}+...=\frac{1}{3}$} $$ -->
@@ -21,7 +21,7 @@ $$
 Diese Summenformel ist nicht neu, diese hat auch schon der gute [Archimedes](https://en.wikipedia.org/wiki/1/4_%2B_1/16_%2B_1/64_%2B_1/256_%2B_%E2%8B%AF) gefunden und auch schon eindrucksvoll geometrisch [bewiesen](https://en.wikipedia.org/wiki/1/4_%2B_1/16_%2B_1/64_%2B_1/256_%2B_%E2%8B%AF#Proof_by_Archimedes). Meine Idee war es diese Formel zu verallgemeinern. Wenn man nun in der Summenformel statt %% 1/4 %% mit %% 1/5 %% ersetzt bekommt man %% 1/4 %% als Ergebnis der Summe. Hierbei lässt sich ein Muster erkennen. Das Ergebnis unterscheidet sich immer nur um Eins von dem Nenner in der Summe, was sich so schreiben lässt:
 
 $$
- {\color{cyan}\sum}^{\color{cyan}\infty\color{black}}_{{\color{pink}k}=1} \frac{1}{(n+1)^{\color{pink}k\color{black}}}=\frac{1}{n}
+ {\color{cyan}\sum}^{\color{cyan}\infty\color{black}}_{{\color{VioletRed}k}=1} \frac{1}{(n+1)^{\color{VioletRed}k\color{black}}}=\frac{1}{n}
 $$
 
 <!-- <div align=center style="text-align: center;">    <img width="550" src="./Media/formula-1-n-2.png"/> </div> -->
@@ -30,7 +30,7 @@ Wir können sogar beliebige Werte für %% n %% einsetzen. Diese Formel konnte ic
 
 
 $$
- {\color{cyan}\sum}^{\color{cyan}\infty\color{black}}_{{\color{pink}k}=0} {q^{\color{pink}k}}=\frac{1}{1-q}
+ {\color{cyan}\sum}^{\color{cyan}\infty\color{black}}_{{\color{VioletRed}k}=0} {q^{\color{VioletRed}k}}=\frac{1}{1-q}
 $$
 
 <!-- <div align=center style="text-align: center;">     <img width="550" src="./Media/formula-q.png"/> </div> -->
