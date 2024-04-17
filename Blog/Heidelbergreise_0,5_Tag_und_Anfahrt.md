@@ -1,4 +1,4 @@
-# Heidelbergreise, 0,5 Tag und Anfahrt
+# Heidelbergreise, Tag 0,5 und Anfahrt
 Vom 4. October 2021
 
 <div align=center style="text-align: center;">

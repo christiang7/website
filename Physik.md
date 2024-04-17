@@ -37,7 +37,7 @@ Nach dem Tag in der Altstadt mit vollem Sightseeing, geht es heute ab in die Nat
 
 Nach den Graduate Days ging es nun an die Stadterkundung und der näheren Umgebung. Am Morgen machte ich mir erst einmal Gedanken, was ich genau heute so alles sehen und erkunden wollen würde. Ich schnappte mir die ganzen Flyer vom Anreisetag und blätterte mal so durch. Aber zuerst kam mir noch in den Sinn [meine ...](Blog/Heidelbergreise_Tag_6_und_Stadterkundung.md) vom 23\. October 2021
 
-## [Heidelbergreise: Graduate Days Tag 2-5](Blog/Heidelbergreise_Graduate_Days_Tag_2-5.md)
+## [Heidelbergreise: Tag 2-5 Graduate Days](Blog/Heidelbergreise_Graduate_Days_Tag_2-5.md)
 [<div> <img width="300" src="./Media/img_20211008_124155-kleiner-2.jpg"/> </div>](Blog/Heidelbergreise_Graduate_Days_Tag_2-5.md)
 
 Die weiteren Tage mit den Graduate Days verliefen wie der Tag 1 ab und es gab einige Highlights, die ich hier näher beleuchten möchte. Dienstag Am Dienstag hatte ich mir noch kurz das Institut für theoretische Physik angeschaut, es liegt direkt am Philosophenweg. Die haben es dort sehr schön, alles wie in einem Garten [angelegt ...](Blog/Heidelbergreise_Graduate_Days_Tag_2-5.md) vom 14\. October 2021
@@ -47,7 +47,7 @@ Die weiteren Tage mit den Graduate Days verliefen wie der Tag 1 ab und es gab ei
 
 Am Montag fingen die Graduate Days an der Heidelberger Universität an. Ich war am Sonntag schon da und wusste deshalb schnell, wohin ich zu gehen habe. Es regnete sehr stark am Morgen und ich fuhr das einzige Mal mit der Straßenbahn, ansonsten lief ich immer zur Uni. An der Uni einigermaßen trocken angekommen, wurde [Ich ...](Blog/Heidelbergreise_Tag_1_und_der_Anfang_der_Graduate_Days.md) vom 11\. October 2021
 
-## [Heidelbergreise, 0,5 Tag und Anfahrt](Blog/Heidelbergreise_0,5_Tag_und_Anfahrt.md)
+## [Heidelbergreise, Tag 0,5 und Anfahrt](Blog/Heidelbergreise_0,5_Tag_und_Anfahrt.md)
 [<div> <img width="300" src="./Media/img_20211003_125721.jpg"/> </div>](Blog/Heidelbergreise_0,5_Tag_und_Anfahrt.md)
 
 Großes Bild am Heidelberger Bahnhof Endlich ist es so weit, Heidelberg ich komme. Ich erfülle mir einen langersehnten Traum, einmal nach Heidelberg zu fahren und am 3.10. fuhr ich hin. Dafür musste ich sehr früh aufstehen, so um 5 Uhr, um nochmal alle Sachen zu checken und billig Zug zu fahren. Ich hatte zwar [kaum ...](Blog/Heidelbergreise_0,5_Tag_und_Anfahrt.md) vom 4\. October 2021
