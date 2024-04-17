@@ -2,6 +2,12 @@
 
 Hier sind meine Codeeinträge.
 
+## [Maschinelles Lernen I Unikurs](Blog/Maschinelles_Lernen_I.md)
+
+Meine Zusammenstellung von Notizen vom Kurs Maschinelles Lernen I an der Universität Potsdam im Sommersemester 24.
+
+[Hier gehts zur Seite](https://christiang7.github.io/Maschinelles-Lernen-I/) vom 17.4.2024
+
 ## [Kontinuirliche Gruppen und Symmetrien Unikurs](Blog/Gruppen-Symmetrie.md)
 
 Meine Zusammenstellung von Notizen vom Kontinuirliche Gruppen und Symmetrien Kurs an der Universität Potsdam im Wintersemester 23/24.
