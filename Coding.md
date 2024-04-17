@@ -8,11 +8,11 @@ Meine Zusammenstellung von Notizen vom Kurs Maschinelles Lernen I an der Univers
 
 [Hier gehts zur Seite](https://christiang7.github.io/Maschinelles-Lernen-I/) vom 17.4.2024
 
-## [Kontinuirliche Gruppen und Symmetrien Unikurs](Blog/Gruppen-Symmetrie.md)
+## [Numerical relativity hydrodynamics Unikurs](Blog/Numerical-relativity.md)
 
-Meine Zusammenstellung von Notizen vom Kontinuirliche Gruppen und Symmetrien Kurs an der Universität Potsdam im Wintersemester 23/24.
+Meine Zusammenstellung von Notizen vom Numerical relativity hydrodynamics Kurs an der Universität Potsdam im Wintersemester 23/24.
 
-[Hier geht es zur Seite](https://christiang7.github.io/Kontinuierliche_Gruppen_und_ihre_Anwendungen_in_der_Quantenphysik_Unikurs/#/) vom 4.4.2024
+[Hier geht es zur Seite](https://christiang7.github.io/Numerical_relativity_hydrodynamics_Unikurs/#/) vom 4.4.2024
 
 ## [Spiele auf Linux](Blog/Spiele_auf_Linux.md)
 

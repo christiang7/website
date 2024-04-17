@@ -12,7 +12,7 @@ Meine Zusammenstellung von Notizen vom Kurs Maschinelles Lernen I an der Univers
 
 ## [Spring School 2024 AEI](Blog/Spring-school-2024.md)
 
-Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
+Meine Zusammenstellung von Notizen von der Spring School 2024 am Albert Einstein Institut.
 [Hier geht es zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
 <div hidden>

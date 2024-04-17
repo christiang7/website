@@ -1,4 +1,4 @@
-# Heidelbergreise: Tag 2-5 Graduate Days
+# Heidelbergreise - Tag 2-5 Graduate Days
 Vom 14. October 2021
 
 <div align=center style="text-align: center;">
