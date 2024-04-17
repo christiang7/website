@@ -15,49 +15,49 @@ Meine Zusammenstellung von Notizen vom Kurs Maschinelles Lernen I an der Univers
 Meine Zusammenstellung von Notizen von der Spring School 2024 am Alert Einstein Intitut.
 [Hier geht es zur Seite](https://christiang7.github.io/Spring-School-2024/#/) vom 4.4.2024
 
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
 <div hidden>
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
 python3 -m http.server 3000
 
 Blog task (2)
 - [ ] Foto auf die Website packen
 Next (2)
+- [ ] Farbige Formeln mit dem Github repo verbinden
 Planning (2)
 - [ ] einige private Dinge veröffentlichen
 	- [ ] HSP Orga mit Website, vielleicht Artikel dafür
