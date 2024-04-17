@@ -1,6 +1,7 @@
 # Neuer Alter Blog
 Vom 30.06.2023
-<div align=centerstyle="text-align: center;">
+
+<div align=center style="text-align: center;">
 <img width="850" src="./Media/marek-piwnicki-epdbc0xRjiI-unsplash.jpg"/>
 </div>
 "Foto von <a href="https://unsplash.com/fr/@marekpiwnicki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Piwnicki</a> auf <a href="https://unsplash.com/de/fotos/der-nachthimmel-mit-sternen-uber-einer-bergkette-epdbc0xRjiI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"

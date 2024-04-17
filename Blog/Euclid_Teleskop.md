@@ -1,7 +1,8 @@
 # Euclid Teleskop der ESA
 Vom 03.07.2023
-<div align=center>
-<img width="500" src="./Media/Euclid_Poster.jpg"/>
+
+<div align=center style="text-align: center;">
+<img width="850" src="./Media/Euclid_Poster.jpg"/>
 </div>
 
 
