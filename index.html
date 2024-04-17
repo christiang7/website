@@ -1,5 +1,3 @@
-<!-- index.html -->
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Personal Website of Christian Gößl">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
- <!--   <link      rel="stylesheet"       href="vue.css"     /> -->
+    <!--   <link      rel="stylesheet"       href="vue.css"     /> -->
     <link rel="stylesheet" href="dark.css" />
 </head>
 <body>
@@ -17,33 +15,47 @@
 
 </body>
 <script>
-    window.$docsify = {
-        loadNavbar: true,
-        autoHeader: true,
-        name: 'Home',
-        auto2top: true,
-        subMaxLevel: 3,
-        latex: {
-            inlineMath   : [['%%', '%%'],['\\(', '\\)']], // default ['$', '$'],
-            displayMath  : [['$$', '$$']],               // default
-        },
-        coverpage: true ,
-search: [
-      '/',            // => /README.md
-      '/Blog',       // => /Blog.md
-      '/Physik', // => /get-started.md
-      '/Coding',      // => /zh-cn/README.md
+window.$docsify = {
+    loadNavbar: true,
+    autoHeader: true,
+    name: 'Home',
+    auto2top: true,
+    subMaxLevel: 3,
+    latex: {
+        inlineMath   : [['%%', '%%'],['\\(', '\\)']], // default ['$', '$'],
+        displayMath  : [['$$', '$$']],               // default
+    },
+    coverpage: true ,
+    search: [
+        '/',            // => /README.md
+        '/Blog',       // => /Blog.md
+        '/Physik', // => /get-started.md
+        '/Coding',      // => /zh-cn/README.md
     ],
-        search: {
-            paths: 'auto', // or []
-            maxAge: 86400000, // Expiration time, the default one day
-            placeholder: {'/': 'Search',}, // depth: 2,
-            noData: { '/' : 'No Results' ,},//
-            hideOtherSidebarContent: false,
-            pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
-            pathNamespaces: ['/', '/Blog', '/About','/Media'],
+    search: {
+        paths: 'auto', // or []
+        maxAge: 86400000, // Expiration time, the default one day
+        placeholder: {'/': 'Search',}, // depth: 2,
+        noData: { '/' : 'No Results' ,},//
+        hideOtherSidebarContent: false,
+        pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
+        pathNamespaces: ['/', '/Blog', '/About','/Media'],
+    },
+    plugins: [
+    function pageFooter(hook, vm) {
+        var footer = [
+            '<hr/>',
+            '<footer>',
+            '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Website created with tool <a href="https://docsify.js.org/">Docsify</a> and language <a href="https://markdown.de/">Markdown</a>. Hosted on <a href="https://github.com/christiang7/website">Github</a>',
+            '</footer>',
+        ].join('');
+
+        hook.afterEach(function (html) {
+            return html + footer;
+        });
         },
-    };
+    ],
+};
 </script>
     
 <!-- load docsify script -->
