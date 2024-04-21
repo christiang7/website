@@ -1,6 +1,5 @@
-<!--
 ![logo](Media/Profilbild-Website-small2.jpg)
--->
+
 # [Welcome to my Website](README.md)
 
 > „Aller innerer Sinn ist Sinn für Sinn.“ – Novalis
