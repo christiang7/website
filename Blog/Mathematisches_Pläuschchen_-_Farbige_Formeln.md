@@ -24,10 +24,10 @@ In dem Thema oder Arbeit wählt man sich eine wichtige Größe heraus und benutz
 Aus meinem vorherigen Artikel
 
 $$
- \colorbox{white}{$\color{black} {\color{blue}\sum}^{\color{blue}\infty}_{{\color{darkred}k}=1} \frac{1}{(n+1)^{\color{darkred}k\color{black}}}=\frac{1}{n} $}
+ \colorbox{white}{$\color{black} \mathop{\color{blue}\sum}^{\color{blue}\infty}_{{\color{darkred}k}=1} \frac{1}{(n+1)^{\color{darkred}k\color{black}}}=\frac{1}{n} $}
 $$
 
-<!-- $$ {\color{cyan}\sum}^{\color{cyan}\infty\color{black}}_{{\color{pink}k}=1} \frac{1}{(n+1)^{\color{pink}k\color{black}}}=\frac{1}{n} $$ -->
+<!-- $$ \mathop{\color{cyan}\sum}^{\color{cyan}\infty\color{black}}_{{\color{pink}k}=1} \frac{1}{(n+1)^{\color{pink}k\color{black}}}=\frac{1}{n} $$ -->
 
 
 <!-- <div align=center style="text-align: center;">    <img width="550" src="./Media/formula-1-n-2.png"/> </div> -->
@@ -35,7 +35,7 @@ $$
 Die Wirkung in der theoretischen Physik im Lagrange-formalismus
 
 $$
- \colorbox{white}{$\color{black} {\color{blue}S} = {\color{blue}\int} {\color{blue}d}{\color{gray}t} {\color{teal}L}({\color{gray}q}_{\color{darkred}i},\dot{\color{gray}q}_{\color{darkred}i}) $}
+ \colorbox{white}{$\color{black} {\color{blue}S} = \mathop{\color{blue}\int} {\color{blue}d}{\color{gray}t} {\color{teal}L}({\color{gray}q}_{\color{darkred}i},\dot{\color{gray}q}_{\color{darkred}i}) $}
 $$
 
 <!-- <div align=center style="text-align: center;">     <img width="550" src="./Media/formula-wirkung.png"/> </div> -->
