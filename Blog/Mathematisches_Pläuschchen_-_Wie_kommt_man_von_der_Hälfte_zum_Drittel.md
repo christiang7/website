@@ -36,9 +36,11 @@ $$
 <!-- <div align=center style="text-align: center;">     <img width="550" src="./Media/formula-q.png"/> </div> -->
 
 Der Unterschied ist, dass diese Reihe bei null anfängt zu zählen, die Eins im Nenner bei dem Ergebnis steht und unsere Reihe eine Art Spezialfall dieser Reihe ist. Für den Wert von
+
 $$
 q = \frac{1}{1+n}
 $$
+
 bekommen wir fast das gleiche Ergebnis nur mit einer Eins dazu addiert. Dadurch können wir unsere Reihe in Form der geometrischen Reihe schreiben und den Beweis für die Reihe benutzen, damit unsere Summe immer konvergiert, egal welchen Wert wir für %% n %% einsetzen.
 
 Dass eigentlich faszinierende an einer unendlichen Reihe ist, dass der unendliche Prozess zu einem endlichen Ergebnis führt. Diese Unendlichkeit bespreche ich in einem weiteren Artikel, also seit gespannt auf das nächste mathematische Pläuschchen. Und wem die Farben in den Formeln aufgefallen sind, wird auch noch mit einem [Artikel](Blog/Mathematisches_Pläuschchen_-_Farbige_Formeln.md) belohnt werden.

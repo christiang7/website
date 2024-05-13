@@ -119,7 +119,15 @@ Jeder Mensch ist auf der Suche nach dem Sinn in seinem Leben. Die Philosophie ka
 
 ## [Mathematisches Pläuschchen – Farbige Formeln](Blog/Mathematisches_Pläuschchen_-_Farbige_Formeln.md)
 
-Die Einstein Gleichung aus der Relativitätstheorie. Schon seit meiner Schulzeit begleiten mich farbige Buchstaben und Zahlen. Jede Zahl hat für mich eine konkrete Farbe, was als Synästhesie bezeichnet wird, bestimmte Sinneseindrücke werden miteinander kombiniert wahrgenommen. Daher glaube ich kommt mein Hang meine Notizen mit allerlei Farben und Formen zu bestücken, dass sie mehr Reize [enthalten ...](Blog/Mathematisches_Pläuschchen_-_Farbige_Formeln.md) vom 22\. July 2021
+In diesem Artikel werde ich die Formel erstmal mit weißem Hintergrund einfärben. In anderen Artikeln habe ich die Formeln bereits auf dunklem Hintergrund eingefärbt. Es folgt noch ein Nachtrag für dunkle Themes.
+
+Einstein Gleichung aus der Relativitätstheorie
+
+$$
+ \colorbox{white}{$\color{black}{\color{blue}G}_{\color{darkred}ab} = {\color{teal}R}_{\color{darkred}ab} - \frac{{\color{blue} g}_{\color{darkred}ab}}{2}  {\color{teal}R} = -\frac{1}{2\gamma}{\color{blue}T}_{\color{darkred}ab}$}
+$$
+
+Schon seit meiner Schulzeit [begleiten ...](Blog/Mathematisches_Pläuschchen_-_Farbige_Formeln.md) vom 22\. July 2021
 
 ## [Kyudotagebuch – Kari die Wildgans](Blog/Kyudotagebuch_-_Kari_die_Wildgans.md)
 [<div> <img width="300" src="./Media/clare-smallwood-pupxaqbwjsq-unsplash.jpg"/> </div>](Blog/Kyudotagebuch_-_Kari_die_Wildgans.md)
