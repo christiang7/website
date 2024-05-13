@@ -10,7 +10,7 @@ Eine Idee die mir schon seit Anfang meines Physikstudiums im Kopfe herumkreist. 
 Diesen Algorithmus habe ich mal versucht mathematisch zu formulieren und kam dann darauf, dass ich auch einfach 4 Stapel machen kann und den letzten Stapel wieder auf 4 Stapel verteile bis alles verteilt ist. Dabei kommt man auf folgende Summenformel:
 
 $$
- \mathop{\color{CornflowerBlue}\sum} ^{\color{CornflowerBlue}\infty\color{black}} _{{\color{Magenta}k}=1} \frac{1}{4^{\color{VioletRed}k\color{black}}}=\frac{1}{4}+\frac{1}{4^2}+\frac{1}{4^3}+...=\frac{1}{3}
+ \mathop{\color{CornflowerBlue}\sum} ^{\color{CornflowerBlue}\infty\color{black}} _{{\color{VioletRed}k}=1} \frac{1}{4^{\color{VioletRed}k\color{black}}}=\frac{1}{4}+\frac{1}{4^2}+\frac{1}{4^3}+...=\frac{1}{3}
 $$
 
 <!-- $$ \colorbox{white}{$\mathop{\color{cyan}\sum} ^{\color{cyan}\infty\color{black}} _{{\color{pink}k}=1} \frac{1}{4^{\color{pink}k\color{black}}}=\frac{1}{4}+\frac{1}{4^2}+\frac{1}{4^3}+...=\frac{1}{3}$} $$ -->
