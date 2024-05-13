@@ -7,8 +7,9 @@ Vom 22\. July 2021
 In diesem Artikel werde ich die Formel erstmal mit weißem Hintergrund einfärben. In anderen Artikeln habe ich die Formeln bereits auf dunklem Hintergrund eingefärbt. Es folgt noch ein Nachtrag für dunkle Themes.
 
 Einstein Gleichung aus der Relativitätstheorie
+
 $$
-\colorbox{white}{$\color{black}{\color{blue}G}_{\color{darkred}ab} = {\color{teal}R}_{\color{darkred}ab} - \frac{{\color{blue} g}_{\color{darkred}ab}}{2}  {\color{teal}R} = -\frac{1}{2\gamma}{\color{blue}T}_{\color{darkred}ab}$}
+ \colorbox{white}{$\color{black}{\color{blue}G}_{\color{darkred}ab} = {\color{teal}R}_{\color{darkred}ab} - \frac{{\color{blue} g}_{\color{darkred}ab}}{2}  {\color{teal}R} = -\frac{1}{2\gamma}{\color{blue}T}_{\color{darkred}ab}$}
 $$
 
 Schon seit meiner Schulzeit begleiten mich farbige Buchstaben und Zahlen. Jede Zahl hat für mich eine konkrete Farbe, was als [Synästhesie](https://de.wikipedia.org/wiki/Syn%C3%A4sthesie) bezeichnet wird, bestimmte Sinneseindrücke werden miteinander kombiniert wahrgenommen. Daher glaube ich kommt mein Hang meine Notizen mit allerlei Farben und Formen zu bestücken, dass sie mehr Reize enthalten und für mich attraktiver sind zum Verarbeiten. Ich habe schon im Abitur angefangen mir mein eigenes Farbsystem und Symbole auszuarbeiten für meine Mitschriften, sodass ich fast auf einem Blick das Wissen erfassen konnte. Überschriften und wichtige Sätze wurden mit einer markanten Farbe geschrieben. Diese Technik verfeinerte ich im Studium und benutzte einfach Symbole, um meine Mitschriften in eine, auf den ersten Blick, komplizierte Form zu schreiben, aber wie in der Mathematik, wenn man sie verstand, konnte man schnell den Text erfassen und lernen. Im Ergebnis habe ich mir eine formalisierte Mitschrift erstellt, die ich noch heute verwende.
