@@ -38,6 +38,13 @@ Heute hatte ich mich mit der Lizenzierung von Ideen und Werken beschäftigt. Dab
 
 Das Internet scheint grenzenlos zu sein. Jeden Tag wird eine unvorstellbare Größe an neuem Inhalt erzeugt und nur zu bestimmten teilen auch konsumiert bzw. verarbeitet. In früheren Zeiten waren es mehr die Links, [die uns zu ...](Blog/Digital_Detox.md) vom 14.08.2023
 
+## [Digital Zen Garden](Blog/Zen_Garden.md)
+[<div> <img width="300" src="./Media/zen-garden-final.png"/> </div>](Blog/Zen_Garden.md)
+
+https://christiang7.github.io/Zen-Garden-learning-parametric-design/
+
+Ein Projekt mit Anna Meide, wo wir einem Zen Garten gebaut haben, den man im Browser anlegen kann und darin [meditieren kann](Blog/Zen_Garden.md) vom 14.08.2022
+
 ## [Alte Blogeinträge auf Wordpress](https://novalisgedanken.wordpress.com/)
 [ <div>  <img width="300" src="./Media/Screenshot-NovalisGedanken-wordpress.png"/> <div>](https://novalisgedanken.wordpress.com/)
 
