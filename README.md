@@ -54,8 +54,9 @@ Meine Zusammenstellung von Notizen von der Spring School 2024 am Albert Einstein
 
 python3 -m http.server 3000
 
-Blog task (2)
-- [ ] Farbige Formeln mit dem Github repo verbinden
+Blog (2)
+- [ ] [[Physik:2»Bunte-Formeln]] mit dem Github repo verbinden
+- [ ] [[Physik:2»Schrödingers Katze in Farbe]]
 Next (2)
 Planning (2)
 - [ ] einige private Dinge veröffentlichen
