@@ -68,13 +68,13 @@ Backlog
 	- [ ] Suche funktioniert nur auf der Hauptseite, findet keine Einträge auf den Unterseiten
 - [ ] Blog so ähnlich gestalten wie  Nils Vu  https://nilsvu.de/
 	- [ ] Masonry https://masonry.desandro.com/
-- [ ] den Blog in ein [[Zettelkasten:1»Gedankenspeicher-Einrichtung:Digital Garden]] umwandeln?
+- [ ] den Blog in ein [[Zettelkasten:1»Gedankenspeicher-Einrichtung:1»Digital Garden]] umwandeln?
 	- [ ] bzw einfach kurz darüber schreiben und das mein Zettelkastensystem nicht kompatibel ist
 - [ ] Blog Eintrag über die Konditionierung in beide Richtungen für das Gute und oder für das Böse
 	- [ ] WEB Uhrwerk Orange (Film) - Wikipedia   https://de.wikipedia.org/wiki/Uhrwerk_Orange_(Film)
 - [ ] [[Naturwissenschaften und Instrumentarien:2»Energieversorgung und ihre Begrenztheit]]
 - [ ] vielleicht Streaming wie hier Über PHYSICSoh - Twitch https://www.twitch.tv/physicsoh/about PhysicsOH - YouTube  https://www.youtube.com/@PhysicsOH/videos Influencer werden für Physik
-- [ ] [[Physik:2»Github oder ähnliche Angebote für physikalische, soziale, philosophische Probleme benutzen]]
+- [ ] [[Physik:1»Github oder ähnliche Angebote für physikalische, soziale, philosophische Probleme benutzen]]
 - [ ] [[Zettelkasten:1»Gedankenspeicher-Einrichtung:Kanboard als Liste]] wie im Alltag zu benutzen
 - [ ] einen Blog über today i learned machen
 - [ ] [[Zettelkasten:2»Bedingungen der Freiheit]]
