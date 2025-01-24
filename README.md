@@ -79,14 +79,14 @@ Backlog
 - [ ] einen Blog über today i learned machen
 - [ ] [[Zettelkasten:2»Bedingungen der Freiheit:0»InT]]
 - [ ] make logo from this picture photo 2021-06-07 21-25-02.jpg with diffusion program
-- [ ] [[Zettelkasten:1»Gedankenspeicher-Einrichtung:Entscheidungsproblem:0»InT]] darüber mal schreiben
+- [ ] [[Zettelkasten:1»Gedankenspeicher-Einrichtung:2»Entscheidungsproblem:0»InT]] darüber mal schreiben
 - [ ] Musik mit Geschichten aufschreiben, das auf dem Blog machen
 - [ ] [[Zettelkasten:2»Interaktion mit der heutigen Welt:0»InT]]
 - [ ] [[Physik:2»Überall ist die Welt vorhanden:0»InT]]
 - [ ] [[Zettelkasten:2»Lebensformen als Plattform:0»InT]]
 - [ ] [[Zettelkasten:2»Aloy Klon von Horizon Forbidden West:0»InT]] Artikel darüber schreiben
 - [ ] [[Zettelkasten:2»Die-Welt-in-der-Dynamik-erkennen]]
-- [ ] [[Zettelkasten:2»Warum die Leere zu viel Aufmerksamkeit auf sich zieht]]
+- [ ] [[Zettelkasten:2»Warum die Leere zu viel Aufmerksamkeit auf sich zieht:0»InT]]
 - [ ] [[Zettelkasten:2»Weißes Blatt]]
 - [ ] [[Zettelkasten:2»Geistiger Prozess der Verzweiflung und Zweifel:0»InT]]
 - [ ] [[Zettelkasten:2»Die einfachste Bewegung]]
