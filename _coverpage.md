@@ -5,7 +5,7 @@
 > „Aller innerer Sinn ist Sinn für Sinn.“ – Novalis
 
 - My own Website with a Blog. Enjoy :)
-- [Background Picture from our sun today from SDO satellite](https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg)
+- [Currently background Picture from our sun from SDO satellite](https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg)
 
 <!-- background image -->
 
