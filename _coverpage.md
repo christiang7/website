@@ -15,6 +15,8 @@
 https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193_1024.jpg
 https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg
  -->
-
+[Home](README.md)
+[Blog](Blog.md)
+[GitHub](https://github.com/christiang7/website)
 
 ![](https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg)
