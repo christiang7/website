@@ -2,6 +2,13 @@
 
 Hier sind alle Einträge.
 
+## [Alte Blogeinträge auf Wordpress](Blog/Alte_Blogeinträge_auf_Wordpress.md)
+[ <div>  <img width="300" src="./Media/Screenshot-NovalisGedanken-wordpress.png"/> <div>](Blog/Alte_Blogeinträge_auf_Wordpress.md)
+
+Auf meinem alten Blog auf Wordpress sind noch meine alten Blogeinträge zu finden.
+
+https://novalisgedanken.wordpress.com/
+
 ## [Maschinelles Lernen I Unikurs](Blog/Maschinelles_Lernen_I.md)
 
 Meine Zusammenstellung von Notizen vom Kurs Maschinelles Lernen I an der Universität Potsdam im Sommersemester 24.
@@ -44,13 +51,6 @@ Das Internet scheint grenzenlos zu sein. Jeden Tag wird eine unvorstellbare Grö
 https://christiang7.github.io/Zen-Garden-learning-parametric-design/
 
 Ein Projekt mit Anna Meide, wo wir einem Zen Garten gebaut haben, den man im Browser anlegen kann und darin [meditieren kann](Blog/Zen_Garden.md) vom 14.08.2022
-
-## [Alte Blogeinträge auf Wordpress](https://novalisgedanken.wordpress.com/)
-[ <div>  <img width="300" src="./Media/Screenshot-NovalisGedanken-wordpress.png"/> <div>](https://novalisgedanken.wordpress.com/)
-
-Auf meinem alten Blog auf Wordpress sind noch meine alten Blogeinträge zu finden.
-
-https://novalisgedanken.wordpress.com/
 
 ## [Euclid Teleskop](Blog/Euclid_Teleskop.md)
 [<div> <img width="300" src="./Media/Euclid_Poster.jpg"/> </div>](Blog/Euclid_Teleskop.md)
