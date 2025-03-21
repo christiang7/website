@@ -1,9 +1,9 @@
 # Kyudotagebuch – Endlich aufs Mato schießen
-Vom 25\. Juni 2021
-
 <div align=center style="text-align: center;">
     <img width="850" src="./Media/img_20180630_142045.jpg"/>
 </div>
+
+Vom 25\. Juni 2021
 
 Von letzter Woche noch etwas voll mit neuen Eindrücken und gespannt wie es weiter geht, ging es wieder weiter mit dem Kyudotraining auf dem Platz. An diesem Montag war es sehr heiß, zum Glück war der Zug nicht voll und die Klimaanlagen taten ihr Bestes. Auf den wunderschönen Platz ankommend ging mit noch vom letzten Mal der Hinweis durch den Kopf: sich pro Training ein Ziel vornehmen. Heute war mein Ziel: endlich die Matopfeile auszuprobieren. Hierbei natürlich nicht die gute Korrektur von Thomas aus den Augen zu verlieren: an der Basis vom Stand üben, die Füße richtig setzen und ausrichten, damit man einen festen Stand hat, diese Stellung heißt Ashibumi. Nach dem Angrüßen eine gute Aufwärmerunde mit gemacht, dann ging es wieder ans Schießen am Makiwara. Ich übte den guten Stand. Nach einiger Zeit machten wir eine kleine Pause.
 
