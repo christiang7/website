@@ -1,9 +1,9 @@
 # Kyudotagebuch – Im Flow sein
-Vom 12\. July 2021
-
 <div align=center style="text-align: center;">
     <img width="850" src="./Media/pfeil-aufs-mato.png"/>
 </div>
+
+Vom 12\. Juli 2021
 
 In der vorletzten Woche ging es wieder weiter mit dem guten Kyudotraining. Als ich wie immer mit dem Zug zum Kyudo fuhr, hatte ich diesmal keine wirkliche Idee, worauf ich mich heute verstärkt konzentrieren sollte, also ein konkretes Ziel. Klar war für mich, an den Punkten zu arbeiten, die mir Thomas das letzte Mal unterrichtet hatte, aber mal schauen. Am Platz ankommend war ich erstaunt, dass sich diesmal viele Kyudoschützen versammelten und es sich wieder fast wie vor Corona anfühlte. Mit diesem Eindruck machte ich mich bereit zum Angrüßen (Rei).
 
