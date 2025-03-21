@@ -5,8 +5,8 @@
 
 Vom 17.04.2024
 
-Die alten Blogeinträge von meiner alten Webseite
+Auf meinem alten Blog auf Wordpress sind noch meine alten Blogeinträge zu finden. 
 
 https://novalisgedanken.wordpress.com/
 
-sind jetzt auf meinen neuen Blog zu finden. 
+Jetzt sind sie auf diesem Blog zu finden.
