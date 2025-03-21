@@ -2,7 +2,7 @@
 
 <!-- <div align=center style="text-align: center;">     <img width="850" src="./Media/formula-gravi.png"/>    <p> Einstein Gleichung aus der Relativitätstheorie </p> </div> -->
 
-Vom 22\. July 2021
+Vom 22\. Juli 2021
 
 In diesem Artikel werde ich die Formel erstmal mit weißem Hintergrund einfärben. In anderen Artikeln habe ich die Formeln bereits auf dunklem Hintergrund eingefärbt. Es folgt noch ein Nachtrag für dunkle Themes.
 

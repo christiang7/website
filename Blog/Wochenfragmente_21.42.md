@@ -1,5 +1,5 @@
 # Wochenfragmente 21.42
-Vom 23\. October 2021
+Vom 23\. Oktober 2021
 
 <div align=center style="text-align: center;">
     <img width="850" src="./Media/img_20211013_121919.jpg"/>

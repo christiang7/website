@@ -1,5 +1,5 @@
 # Kyudotagebuch – Endlich aufs Mato schießen
-Vom 25\. June 2021
+Vom 25\. Juni 2021
 
 <div align=center style="text-align: center;">
     <img width="850" src="./Media/img_20180630_142045.jpg"/>

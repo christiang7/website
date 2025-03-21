@@ -1,5 +1,5 @@
 # Mathematisches Pläuschchen – Wie kommt man von der Hälfte zum Drittel?
-Vom 4\. July 2021
+Vom 4\. Juli 2021
 
 <div align=center style="text-align: center;">
     <img width="850" src="./Media/haelfte-zu-drittel.png"/>

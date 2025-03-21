@@ -1,5 +1,5 @@
 # Sinn und absurde Philosophie
-Vom 26\. July 2021
+Vom 26\. Juli 2021
 
 <iframe width="850" height="422" src="https://www.youtube.com/embed/vPtzpjC7TF4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=de&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 

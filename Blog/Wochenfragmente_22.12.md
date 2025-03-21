@@ -1,5 +1,5 @@
 # Wochenfragmente 22.12
-Vom 13. March 2022
+Vom 13. März 2022
 
 <div align=center style="text-align: center;">
     <img width="850" src="./Media/img_20220316_120815.jpg"/>
