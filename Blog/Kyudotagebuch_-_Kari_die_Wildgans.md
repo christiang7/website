@@ -1,9 +1,9 @@
 # Kyudotagebuch – Kari die Wildgans
-Vom 22\. July 2021
-
 <div align=center style="text-align: center;">
     <img width="850" src="./Media/clare-smallwood-pupxaqbwjsq-unsplash.jpg"/>
 </div>
+
+Vom 22\. Juli 2021
 
 Foto von [Clare Smallwood](https://unsplash.com/@clarasteve?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
