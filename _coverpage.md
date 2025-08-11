@@ -9,9 +9,9 @@
 - [Background Picture from our current sun from SDO satellite](https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg)
 
 <!-- background image -->
-> „Aller innerer Sinn ist Sinn für Sinn.“ – Novalis
 <!--
 ![logo](Media/Profilbild-Website-small2.jpg)
+> „Aller innerer Sinn ist Sinn für Sinn.“ – Novalis
 
 ![](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_3072_0304.jpg)
 ![](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_3072_0171.jpg)
