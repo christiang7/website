@@ -32,9 +32,10 @@
   /*position: fixed;
   background: rgba(0, 0, 0, 0.5);
   padding: 20px;
+  color: #f1f1f1;
   */
   top: 0;
-  color: #f1f1f1;
+  color: #c8c8c8;
   width: 100%;
   z-index: 1;
 }
