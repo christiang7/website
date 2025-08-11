@@ -18,3 +18,23 @@
 
 .button1 {background-color: #a626a4;  width: 50%;}/*#a626a4 #ea6f5a*/
 .button2 {background-color: #ea6f5a;  width: 100%;} 
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  top: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.content {
+  /*position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  */
+  top: 0;
+  color: #f1f1f1;
+  width: 100%;
+  z-index: 1;
+}
