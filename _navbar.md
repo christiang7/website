@@ -8,4 +8,4 @@
 * [About Me](About_Me.md)
 * [Linktree](https://christiang7.github.io/website/Linktree)
 * [Impressum](Impressum.md)
-* [Github](https://github.com/christiang7)
+* [GitHub](https://github.com/christiang7)
