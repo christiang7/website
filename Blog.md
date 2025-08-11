@@ -4,7 +4,7 @@ Hier sind alle Einträge.
 
 ## [Linktree Seite online](https://christiang7.github.io/website/Linktree)
 
-Meine neue Linktree Seite ist online und kann entweder oben in der Navigationsbar gefunden werden oder allgemein über den Link
+Meine neue Linktree Seite ist online und kann entweder oben in der Navigationsbar gefunden werden oder allgemein über den Link:
 
 https://christiang7.github.io/website/Linktree
 
