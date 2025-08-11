@@ -9,12 +9,12 @@
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 12px;
-  opacity: 0.85;
+  opacity: 0.75;
 }
 
 .avatar{
  border-radius : 50%;
 }
 
-.button1 {background-color: #ea6f5a;  width: 50%;}
+.button1 {background-color: #a626a4;  width: 50%;}/*#a626a4 #ea6f5a*/
 .button2 {background-color: #ea6f5a;  width: 100%;} 
