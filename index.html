@@ -22,29 +22,33 @@
 window.$docsify = {
     loadNavbar: true,
     autoHeader: true,
-    name: 'Home',
     auto2top: true,
     subMaxLevel: 3,
     latex: {
         inlineMath   : [['%%', '%%'],['\\(', '\\)']], // default ['$', '$'],
         displayMath  : [['$$', '$$']],               // default
     },
-    coverpage: true ,
+    coverpage: true,
+    search: 'auto', // default
     search: [
         '/',            // => /README.md
         '/Blog',       // => /Blog.md
-        '/Physik', // => /get-started.md
+        '/Physik', // => /Physik.md
         '/Coding',      // => /zh-cn/README.md
     ],
     search: {
-        paths: 'auto', // or []
-        maxAge: 86400000, // Expiration time, the default one day
-        placeholder: {'/': 'Search',}, // depth: 2,
+        // insertAfter: '.app-name',
+        // insertBefore: '.sidebar-nav',
         noData: { '/' : 'No Results' ,},//
-        hideOtherSidebarContent: false,
-        pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
-        pathNamespaces: ['/', '/Blog', '/About','/Media'],
+        paths: [], //'auto', // or []
+        //maxAge: 86400000, // Expiration time, the default one day
+        placeholder: {'/': 'Search',}, // depth: 2,
+        //hideOtherSidebarContent: false,
+        //pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
+        //pathNamespaces: ['/', '/Blog', '/Coding','/Physik'],
+        depth: 6,
     },
+    name: 'Home',
     plugins: [
     function pageFooter(hook, vm) {
         var footer = [
