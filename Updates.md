@@ -11,6 +11,12 @@ https://christiang7.github.io/hyper/
 
 https://christiang7.github.io/Rad-Bahnhof-Index-Karte/
 
+## 2025-10-17 bis 2025-10-18 Teilnahme Rad-Data-Hackathon Potsdam
+
+Rad-Daten-Hackathon - Potsdam 
+
+https://mitgestalten.potsdam.de/de/raddatenhackathon
+
 ## 2025-08-29 Weitere Studienarbeiten auf GitHub veröffentlicht
 
 https://github.com/christiang7/Comp-Physics-1-3-body-problem
