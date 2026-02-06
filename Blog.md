@@ -10,7 +10,7 @@ https://christiang7.github.io/website/Linktree
 
 Vom 11.08.2025
 
-## [Alte Blogeinträge auf Wordpress jetzt hier](Blog/Alte_Blogeinträge_auf_Wordpress.md)
+## [Alte Blogeinträge von Wordpress jetzt hier](Blog/Alte_Blogeinträge_auf_Wordpress.md)
 [ <div>  <img width="300" src="./Media/Screenshot-NovalisGedanken-wordpress.png"/> <div>](Blog/Alte_Blogeinträge_auf_Wordpress.md)
 
 Auf meinem alten Blog auf Wordpress sind noch meine alten Blogeinträge zu finden. 
