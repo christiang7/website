@@ -2,6 +2,16 @@
 
 Hier sind meine Philosophieeinträge.
 
+## [Essay _Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik](https://christiang7.github.io/website/Blog/Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md)
+
+Ein geschriebens Essay aus einer Vorlesung über Philosophie und Mathematik an der Uni Potsdam.
+
+Mein Essay wird darüber handeln wie die Vorlesung sich auf mein
+Verständnis von Philosophie und Mathematik auswirkte, sowie es einige
+Ideen und Inspirationen in mir [auslöste](https://christiang7.github.io/website/Blog/Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md).
+
+Vom 06.02.2026
+
 ## [Sinn und absurde Philosophie](Blog/Sinn_und_absurde_Philosophie.md)
 [<div> <img width="300" src="./Media/img_20210720_180631.jpg"/> </div>](Blog/Sinn_und_absurde_Philosophie.md)
 

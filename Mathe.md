@@ -2,6 +2,16 @@
 
 Hier sind meine Mathematikeinträge.
 
+## [Essay _Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik](https://christiang7.github.io/website/Blog/Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md)
+
+Ein geschriebens Essay aus einer Vorlesung über Philosophie und Mathematik an der Uni Potsdam.
+
+Mein Essay wird darüber handeln wie die Vorlesung sich auf mein
+Verständnis von Philosophie und Mathematik auswirkte, sowie es einige
+Ideen und Inspirationen in mir [auslöste](https://christiang7.github.io/website/Blog/Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md).
+
+Vom 06.02.2026
+
 ## [Mathematisches Pläuschchen – Farbige Formeln](Blog/Mathematisches_Pläuschchen_-_Farbige_Formeln.md)
 
 In diesem Artikel werde ich die Formel erstmal mit weißem Hintergrund einfärben. In anderen Artikeln habe ich die Formeln bereits auf dunklem Hintergrund eingefärbt. Es folgt noch ein Nachtrag für dunkle Themes.
