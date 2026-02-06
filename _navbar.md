@@ -1,5 +1,6 @@
 <!-- _navbar.md -->
 
+* [Updates](Updates.md)
 * [Physik](Physik.md)
 * [Philosophie](Philosophie.md)
 * [Mathe](Mathe.md)

@@ -4,6 +4,12 @@ Enjoy :)
 
 # Neueste Einträge
 
+## [Updates Seite online](https://christiang7.github.io/website/Updates.md)
+
+Hier findest du kleine Updates, woran ich gerade arbeite, was sich ändert und abspielt in meinem Leben. 
+
+Vom 06.02.2026
+
 ## [Linktree Seite online](https://christiang7.github.io/website/Linktree)
 
 Meine neue Linktree Seite ist online und kann entweder oben in der Navigationsbar gefunden werden oder allgemein über den Link:
@@ -11,13 +17,3 @@ Meine neue Linktree Seite ist online und kann entweder oben in der Navigationsba
 https://christiang7.github.io/website/Linktree
 
 Vom 11.08.2025
-
-## [Alte Blogeinträge von Wordpress jetzt hier](Blog/Alte_Blogeinträge_auf_Wordpress.md)
-[ <div>  <img width="300" src="./Media/Screenshot-NovalisGedanken-wordpress.png"/> <div>](Blog/Alte_Blogeinträge_auf_Wordpress.md)
-
-Auf meinem alten Blog auf Wordpress sind noch meine alten Blogeinträge zu finden. 
-
-https://novalisgedanken.wordpress.com/
-
-Jetzt sind sie auf diesem Blog zu finden. Vom 17.04.2024
-
