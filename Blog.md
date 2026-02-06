@@ -58,7 +58,7 @@ Das Internet scheint grenzenlos zu sein. Jeden Tag wird eine unvorstellbare Grö
 ## [Digital Zen Garden](Blog/Zen_Garden.md)
 [<div> <img width="300" src="./Media/zen-garden-final.png"/> </div>](Blog/Zen_Garden.md)
 
-https://christiang7.github.io/Zen-Garden-learning-parametric-design/
+https://christiang7.github.io/Zen-Garden
 
 Ein Projekt mit Anna Meide, wo wir einem Zen Garten gebaut haben, den man im Browser anlegen kann und darin [meditieren kann](Blog/Zen_Garden.md) vom 14.08.2022
 

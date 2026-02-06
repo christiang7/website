@@ -5,10 +5,10 @@ Vom 14.08.2022
     <img width="850" src="./Media/zen-garden-final.png"/>
 </div>
 
-https://christiang7.github.io/Zen-Garden-learning-parametric-design/
+https://christiang7.github.io/Zen-Garden
 
 Ein Projekt mit Anna Meide, wo wir einem Zen Garten gebaut haben, den man im Browser anlegen kann und darin meditieren kann ;)
 
 Das Repository ist hier einzusehen:
 
-https://github.com/christiang7/Zen-Garden-learning-parametric-design
+https://github.com/christiang7/Zen-Garden
