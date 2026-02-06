@@ -283,7 +283,7 @@ entsprechen (Siehe Abb. 2).
 
 <figure id="pic-zwei-Farben" data-latex-placement="htp!">
 <div align=center style="text-align: center;">
-<embed width="450" src="Media/zwei_Farben.png" />
+<embed width="450" src="Media/zwei_Farben.svg" />
 </div>
 <figcaption>Abb. 2: Zwei Farben überschneiden sich und bilden eine
 unvorstellbare kleine Grenze aus.</figcaption>
