@@ -4,7 +4,7 @@ Enjoy :)
 
 # Neueste Einträge
 
-## [Essay: Inspirationen und Gedankengänge zur Vorlesung Philosophie und Mathematik](Blog/Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md)
+## [Essay - Inspirationen und Gedankengänge zur Vorlesung Philosophie und Mathematik](Blog/Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md)
 
 Ein geschriebens Essay aus einer Vorlesung über Philosophie und Mathematik an der Uni Potsdam.
 
