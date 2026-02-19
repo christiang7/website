@@ -2,6 +2,13 @@
 
 Hier sind meine Physikeinträge.
 
+## [Impressive solar flare video and analysis in a new paper](Blog/Solar-Flare-Video.md)
+![file](../Media/apjae2ec7f1_video.mp4 ':include :type=iframe')
+
+The video shows the amazing creation of a solar flare in 2011. The researchers analyzed the emergence of solar winds during solar eclipses over 12 years. It gives us better insides of how they formed [and](Blog/Solar-Flare-Video.md)
+
+From 19th February 2026
+
 ## [Spring School 2024 AEI](Blog/Spring-school-2024.md)
 
 Meine Zusammenstellung von Notizen von der Spring School 2024 am Albert Einstein Institut.
