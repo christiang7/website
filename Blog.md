@@ -4,6 +4,7 @@ Hier sind alle Einträge.
 
 ## [Impressive solar flare video and analysis in a new paper](Blog/Solar-Flare-Video.md)
 ![file](/Media/apjae2ec7f1_video.mp4 ':include :type=iframe')
+Credit: The Astrophysical Journal (2026). DOI: 10.3847/1538-4357/ae2ec7
 
 The video shows the amazing creation of a solar flare in 2011. The researchers analyzed the emergence of solar winds during solar eclipses over 12 years. It gives us better insides of how they formed [and](Blog/Solar-Flare-Video.md)
 
