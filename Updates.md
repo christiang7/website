@@ -2,6 +2,9 @@
 
 Hier findest du kleine Updates, woran ich gerade arbeite, was sich ändert und abspielt in meinem Leben. 
 
+## Impressive solar flare video and analysis in a new paper
+
+[Impressive solar flare video and analysis in a new paper](Blog/Solar-Flare-Video.md)
 
 ## 2026-02-02 Hyper documentation website online
 
