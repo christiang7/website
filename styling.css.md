@@ -1,3 +1,30 @@
+===== styling.css =====
+# styling.css
+Created 2026-02-24
+
+
+## Description
+
+## Journal
+ - [X] Backlog
+    - [ ] 
+ - [X] Doing
+ 
+## css code
+
+
+*make.sh*
+```bash
+noweb.py -Rstyling.css styling.css.md > styling.css && echo 'styling.css' && notify-send -a "Compilation of styling.css" "" "$(date +"%Y-%m-%d") fertig" 
+```
+
+
+```bash
+chmod u+x styling.css && ln -sf $(pwd)/styling.css ~/.local/bin/styling.css && echo 'fertig'
+```
+
+*styling.css*
+```css
 .button {
   border: none;
   color: white;
@@ -39,3 +66,4 @@
   width: 100%;
   z-index: 1;
 }
+```

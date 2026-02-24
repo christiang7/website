@@ -1,3 +1,30 @@
+===== vue.css =====
+# vue.css
+Created 2026-02-24
+
+
+## Description
+
+## Journal
+ - [X] Backlog
+    - [ ] 
+ - [X] Doing
+ 
+## css code
+
+
+*make.sh*
+```bash
+noweb.py -Rvue.css vue.css.md > vue.css && echo 'vue.css' && notify-send -a "Compilation of vue.css" "" "$(date +"%Y-%m-%d") fertig" 
+```
+
+
+```bash
+chmod u+x vue.css && ln -sf $(pwd)/vue.css ~/.local/bin/vue.css && echo 'fertig'
+```
+
+*vue.css*
+```css
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
 * {
   -webkit-font-smoothing: antialiased;
@@ -338,7 +365,7 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section iframe {
 /*   border: 1px solid #eee;
-fix horizontal overflow on iOS Safari
+fix horizontal overflow on iOS Safari 
   width: 1px;
   min-width: 100%; */
   border:none;
@@ -876,3 +903,4 @@ code .token {
   left: auto;
 }
 
+```

@@ -194,7 +194,7 @@ li input[type='checkbox'] {
 main {
   display: block;
   position: relative;
-  width: 90vw; /* changed from 100vm*/
+  width: 100vw;
   height: 100%;
   z-index: 0;
 }
@@ -221,7 +221,7 @@ main.hidden {
   bottom: 0;
   left: 0;
   transition: transform 250ms ease-out;
-  width: 200px;
+  width: 300px;
   z-index: 20;
 }
 .sidebar > h1 {
@@ -313,7 +313,7 @@ body.sticky .sidebar-toggle {
   top: 0;
   right: 0;
   bottom: 0;
-  left: 200px; /* changed from 300px*/
+  left: 300px;
   transition: left 250ms ease;
 }
 .markdown-section {
@@ -324,8 +324,7 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section > * {
   box-sizing: border-box;
-  font-size: 27px; /* font size changed from font-size: inherit; */
-  text-align: justify; /* text-align: changed from left */
+  font-size: inherit;
 }
 .markdown-section > :first-child {
   margin-top: 0 !important;
@@ -336,10 +335,10 @@ body.sticky .sidebar-toggle {
   margin: 2em 0;
 }
 .markdown-section iframe {
-  border: 1px solid #eee;
-/* fix horizontal overflow on iOS Safari */
+ /*  border: 1px solid #eee;
   width: 1px;
-  min-width: 100%;
+  min-width: 100%;*/
+  border:none;
 }
 .markdown-section table {
   border-collapse: collapse;
@@ -361,10 +360,9 @@ body.sticky .sidebar-toggle {
 .markdown-section tr {
   border-top: 1px solid #ccc;
 }
-/*
 .markdown-section tr:nth-child(2n) {
   background-color: #f8f8f8;
-}*/
+}
 .markdown-section p.tip {
   background-color: #f8f8f8;
   border-bottom-right-radius: 2px;
@@ -639,23 +637,23 @@ body {
   color: var(--theme-color, #ea6f5a);
   font-weight: 600;
 }
-.markdown-section h1 { /* all headlines changed to bigger values */
-  font-size: 3.5rem;
+.markdown-section h1 {
+  font-size: 2rem;
   margin: 0 0 1rem;
 }
 .markdown-section h2 {
-  font-size: 2.75rem;
+  font-size: 1.75rem;
   margin: 45px 0 0.8rem;
 }
 .markdown-section h3 {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   margin: 40px 0 0.6rem;
 }
 .markdown-section h4 {
-  font-size: 2.25rem;
+  font-size: 1.25rem;
 }
 .markdown-section h5 {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 .markdown-section h6 {
   color: #777;
@@ -667,11 +665,7 @@ body {
 .markdown-section ol {
   margin: 1.2em 0;
 }
-.markdown-section p {
-  line-height: 2.4rem; /* change line height / spacing from 1.6rem */
-  word-spacing: 0.05rem;
-}
-
+.markdown-section p,
 .markdown-section ul,
 .markdown-section ol {
   line-height: 1.6rem;
@@ -694,6 +688,7 @@ body {
 }
 .markdown-section iframe {
   margin: 1em 0;
+  border:none;
 }
 .markdown-section em {
   color: #7f8c8d;
@@ -849,3 +844,4 @@ input[type='search'] {
   border-color: #4f4f4f;
   color: #c8c8c8;
 }
+
