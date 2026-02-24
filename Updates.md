@@ -2,7 +2,11 @@
 
 Hier findest du kleine Updates, woran ich gerade arbeite, was sich ändert und abspielt in meinem Leben. 
 
-## Impressive solar flare video and analysis in a new paper
+## 2026-02-24 New colortheme nord for the website
+
+Colortheme [nord](https://github.com/nordtheme/nord)
+
+## 2026-02-19 Impressive solar flare video and analysis in a new paper
 
 [Impressive solar flare video and analysis in a new paper](Blog/Solar-Flare-Video.md)
 
