@@ -1,3 +1,30 @@
+===== Linktree.html =====
+# Linktree.html
+Created 2026-02-27
+
+
+## Description
+
+## Journal
+ - [X] Backlog
+    - [ ] 
+ - [X] Doing
+ 
+## html code
+
+
+*make.sh*
+```bash
+noweb.py -RLinktree.html Linktree.html.md > Linktree.html && echo 'Linktree.html' && notify-send -a "Compilation of Linktree.html" "" "$(date +"%Y-%m-%d") fertig" 
+```
+
+
+```bash
+chmod u+x Linktree.html && ln -sf $(pwd)/Linktree.html ~/.local/bin/Linktree.html && echo 'fertig'
+```
+
+*Linktree.html*
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,16 +33,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Linktree of Christian Gößl">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <!--   <link      rel="stylesheet"       href="vue.css"     />
+    <!--   <link      rel="stylesheet"       href="vue.css"     /> 
     #3f3f3f
     <link rel="stylesheet" href="dark.css" />
   <source src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_512_094335193.mp4" type="video/mp4">
-
+    
     -->
     <link rel="stylesheet" href="styling.css" />
 </head>
 <body>
-<!--
+<!-- 
         background-image: url('https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg');
         background-repeat: no-repeat;
         background-size: cover;
@@ -46,7 +73,7 @@
         <br>
 
 
-    <button class="button button1" onclick="window.location.href='https://christiang7.github.io/website/#/';"><img src="./Media/icons/website-click-svgrepo-com.svg" alt="" height="36px" float="left"> Website</button> <br>
+    <button class="button button1" onclick="window.location.href='https://christiang7.github.io/website/#/';"><img src="./Media/icons/website-click-svgrepo-com.svg" alt="" height="36px" float="left"> Website</button> <br> 
     <button class="button button1" onclick="window.location.href='https://github.com/christiang7';"><img src="./Media/icons/github-svgrepo-com.svg" alt="" height="36px" float="left"> GitHub</button>  <br>
     <button class="button button1" onclick="window.location.href='https://www.linkedin.com/in/christian-goessl-042a26159';"><img src="./Media/icons/linkedin-svgrepo-com-1.svg" alt="" height="36px" float="left"> LinkedIn</button>  <br>
     <button class="button button1" onclick="window.location.href='./Media/CV.pdf';"><img src="./Media/icons/website-click-svgrepo-com.svg" alt="" height="36px" float="left"> CV english</button>  <br>
@@ -59,3 +86,4 @@
 </body>
 </html>
 
+```
