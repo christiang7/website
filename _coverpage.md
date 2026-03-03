@@ -6,13 +6,14 @@
 > Ad Astra per Aspera
 
 - My own Website with a Blog. Enjoy :)
-- [Background Picture from our current sun from SDO satellite](https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg)
+- [Background Picture from our current sun from SDO satellite](https://soho.nascom.nasa.gov/data/realtime/eit_171/1024/latest.jpg)
 
 <!-- background image -->
 <!--
 ![logo](Media/Profilbild-Website-small2.jpg)
 > „Aller innerer Sinn ist Sinn für Sinn.“ – Novalis
 
+- [Background Picture from our current sun from SDO satellite](https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg)
 ![](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_3072_0304.jpg)
 ![](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_3072_0171.jpg)
 https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193_1024.jpg
@@ -22,4 +23,4 @@ https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg
 [GitHub](https://github.com/christiang7)
 [Home](README.md)
 
-![](https://sdo.gsfc.nasa.gov/assets/img/latest/f_094_335_193pfss_1024.jpg)
+![](https://soho.nascom.nasa.gov/data/realtime/eit_171/1024/latest.jpg)
