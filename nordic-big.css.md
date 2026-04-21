@@ -1,4 +1,3 @@
-===== nordic-big.css =====
 # nordic-big.css
 Created 2026-02-24
 

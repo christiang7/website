@@ -1,4 +1,3 @@
-===== Linktree.html =====
 # Linktree.html
 Created 2026-02-27
 
