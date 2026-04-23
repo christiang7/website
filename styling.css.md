@@ -1,4 +1,3 @@
-===== styling.css =====
 # styling.css
 Created 2026-02-24
 

@@ -1,4 +1,3 @@
-===== nordic.css =====
 # nordic.css
 Created 2026-02-24
 
