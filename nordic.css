@@ -166,7 +166,9 @@ li input[type='checkbox'] {
   cursor: pointer;
 }
 .app-nav li ul {
-  background-color: #fff;
+  background-color:
+  #2e3440
+  ;
   border: 1px solid #ddd;
   border-bottom-color: #ccc;
   border-radius: 4px;
