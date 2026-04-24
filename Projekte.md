@@ -8,6 +8,8 @@ Eine Zusammenstellung meiner derzeitigen Projekte. Diese sind auch auf GitHub zu
 
 [Styles](https://github.com/christiang7/styles) - Eine JSON Datei bzw für viele Anwendungen wie Latex Textfarben, Zim-wiki Editor, Kate Editor und viele mehr. Mit Hilfe von Scripten kann aus einer Vorlage alle verschiedene Anwendungsbereiche ein Farbtheme erzeugt werden. Das Projekt ist modular und mit `noweb` gestaltet worden.
 
+**Sprachprogression(Idee)** - Eine Sprache, die sich im Prozess befindet und sich ständig ändert. Die Buchstaben und Beziehung untereinander, wie eine Art Animation, nur mit Bedeutungen und Funktionen. 
+
 [Rad-Bahnhof-Index](https://github.com/christiang7/Rad-Bahnhof-Index-Karte) - Einen Index zur Berechnung der Qualität von Bahnhöfen im Bezug zu Fahrrädern unter bestimmten Kriterien wie Stellplätze, Unfallgefahr, Zugänglichkeit mit dem Fahrrad uvw. vom Team MBA vom Hackathon in Potsdam Oktober 2025. Das Projekt belegte den 2. Platz.
 
 ## Mitarbeit an Projekten
