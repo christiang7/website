@@ -2,6 +2,7 @@
 
 * [Updates](Updates.md)
 * [Projekte](Projekte.md)
+* [Forschung](Forschung.md)
 * [Physik](Physik.md)
 * [Philosophie](Philosophie.md)
 * [Mathe](Mathe.md)
