@@ -2,7 +2,7 @@
 
 Hier findest du kleine Updates, woran ich gerade arbeite, was sich ändert und abspielt in meinem Leben. 
 
-## 2026-04-24 Neue Projektseite für Webseite
+## 2026-04-24 Neue Projektseite und Forschungsseite für Webseite
 
 ## 2026-03-20 - 2026-03-21 Teilnahme und Gewinnern 3. Platz beim Deutsche Bahn Hackathon Anschluss erreichen
 
