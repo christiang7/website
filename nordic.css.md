@@ -43,6 +43,16 @@ var(--theme-color, #88c0d0);
 #2e3440
 ```
 
+*bold-color*
+```css
+#81a1c1
+```
+
+*code-color*
+```css
+#8fbcbb
+```
+
 *nordic.css*
 ```css
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
@@ -752,7 +762,9 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-  color: #657b83;
+  color:   
+  #*bold-color}}
+  ;
   font-weight: 600;
 }
 .markdown-section a {
@@ -827,7 +839,9 @@ body {
 .markdown-section code {
   background-color: #282828;
   border-radius: 2px;
-  color: #657b83;
+  color:   
+  #*code-color}}
+  ;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   margin: 0 2px;
   padding: 3px 5px;
@@ -939,7 +953,9 @@ body {
   -webkit-font-smoothing: initial;
   background-color: #282828;
   border-radius: 2px;
-  color: #657b83;
+  color:   
+  #*code-color}}
+  ;
   display: block;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   font-size: 0.8rem;
@@ -976,7 +992,9 @@ pre::after {
 }
 .markdown-section p.tip {
   background-color: #282828;
-  color: #657b83;
+  color:   
+  #*code-color}}
+  ;
 }
 input[type='search'] {
   background: #4f4f4f;
