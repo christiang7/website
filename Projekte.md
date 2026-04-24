@@ -12,7 +12,7 @@ Eine Zusammenstellung meiner derzeitigen Projekte. Diese sind auch auf GitHub zu
 
 ## Mitarbeit an Projekten
 
-[Multi-Agent KI-Reiseassistent](https://github.com/christiang7/hackathon-anschluss-erreichen) - Eine KI System zur Nutzung von verschiedenen Datenbankenquellen, um einen KI-Reiseassistenten zur erzeugen. Die KI bindet verschiedene Datenbanken zusammen und kann daraus Fragen beantworten und bei der Reise behilflich sein. Entstand im Rahmen eines Hackathons bei der Deutschen Bahn Anschluss erreichen und belegte den 3. Platz. 
+[Multi-Agent KI-Reiseassistent](https://github.com/christiang7/hackathon-anschluss-erreichen) - Eine KI System zur Nutzung von verschiedenen Datenbankenquellen, um einen KI-Reiseassistenten zur erzeugen. Die KI bindet verschiedene Datenbanken zusammen und kann daraus Fragen beantworten und bei der Reise behilflich sein. Entstand im Rahmen eines Hackathons bei der Deutschen Bahn Anschluss erreichen im März 2026 und belegte den 3. Platz. 
 
 [RewireDB](https://github.com/wired87/rewiredb) - ein KI-Assistent zur Erstellung von physikalischen Siumaltionen. 
 

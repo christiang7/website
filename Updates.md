@@ -2,7 +2,11 @@
 
 Hier findest du kleine Updates, woran ich gerade arbeite, was sich ändert und abspielt in meinem Leben. 
 
-## 2026-02-24 New colortheme nord for the website
+## 2026-04-24 Neue Projektseite für Webseite
+
+## 2026-03-20 - 2026-03-21 Teilnahme und Gewinnern 3. Platz beim Deutsche Bahn Hackathon Anschluss erreichen
+
+## 2026-02-24 New colortheme nord for website
 
 Colortheme [nord](https://github.com/nordtheme/nord)
 
@@ -18,7 +22,7 @@ https://christiang7.github.io/hyper/
 
 https://christiang7.github.io/Rad-Bahnhof-Index-Karte/
 
-## 2025-10-17 bis 2025-10-18 Teilnahme Rad-Data-Hackathon Potsdam
+## 2025-10-17 bis 2025-10-18 Teilnahme und Gewinner 2. Platz beim Rad-Data-Hackathon Potsdam
 
 Rad-Daten-Hackathon - Potsdam 
 
