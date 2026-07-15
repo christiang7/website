@@ -18,5 +18,5 @@ Eine Zusammenstellung meiner derzeitigen Projekte. Diese sind auch auf GitHub zu
 
 [RewireDB](https://github.com/wired87/rewiredb) - ein KI-Assistent zur Erstellung von physikalischen Siumaltionen. 
 
-[Zim-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - ist eine Notizensoftware in Stil eines Wikis.
+[Zim-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - ist eine Notizensoftware im Stil eines Wikis.
 
