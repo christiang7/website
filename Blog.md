@@ -2,7 +2,7 @@
 
 ## [LA - Live Article](Blog/LA_-_Live_Article.md)
 
-Ein Live Article ist ein Fragment wie im romantischen [Sinne](LA_-_Live_Article.md). 
+Ein Live Article ist ein Fragment wie im romantischen [Sinne](Blog/LA_-_Live_Article.md). 
 
 ## [Impressive solar flare video and analysis in a new paper](Blog/Solar-Flare-Video.md)
 ![file](/Media/apjae2ec7f1_video.mp4 ':include :type=iframe')
