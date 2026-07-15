@@ -1,5 +1,9 @@
 # Blog
 
+## [LA - Live Article](Blog/LA_-_Live_Article.md)
+
+Ein Live Article ist ein Fragment wie im romantischen [Sinne](LA_-_Live_Article.md). 
+
 ## [Impressive solar flare video and analysis in a new paper](Blog/Solar-Flare-Video.md)
 ![file](/Media/apjae2ec7f1_video.mp4 ':include :type=iframe')
 Credit: The Astrophysical Journal (2026). DOI: 10.3847/1538-4357/ae2ec7

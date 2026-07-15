@@ -1,3 +1,36 @@
+# index.html
+Created 2026-07-15
+
+
+## Description
+
+## Journal
+ - [X] Backlog
+    - [ ] 
+ - [X] Doing
+ 
+## html code
+
+
+ 
+### Compilation code
+
+*make.sh*
+```bash
+noweb.py -Rindex.html index.html.md > index.html && echo 'index.html' && notify-send -a "Compilation of index.html" "" "$(date +"%Y-%m-%d") fertig" 
+```
+
+
+```bash
+chmod u+x index.html && ln -sf $(pwd)/index.html ~/.local/bin/index.html && echo 'fertig'
+```
+
+### index.html
+
+
+
+*index.html*
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +40,8 @@
     <meta name="description" content="Personal Website of Christian Gößl">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="icon" href="favicon.ico" />
-    <!--   <link      rel="stylesheet"       href="vue.css"     />
-
+    <!--   <link      rel="stylesheet"       href="vue.css"     /> 
+    
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
     -->
     <link rel="stylesheet" href="nordic.css" />
@@ -66,7 +99,7 @@ window.$docsify = {
     ],
 };
 </script>
-
+    
 <!-- load docsify script -->
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
@@ -89,4 +122,6 @@ window.$docsify = {
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
 
 </html>
+
+```
 
